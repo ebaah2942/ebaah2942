@@ -31,7 +31,7 @@ I'm a **junior software developer** passionate about building real-world solutio
 ---
 
 ### 🤝 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/ebaah2942)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/enochbaah)  
 - 🧑‍💻 [Portfolio Website](https://yourwebsite.com) *(Coming Soon)*  
 
 Thanks for visiting my GitHub! Let’s build something impactful together.
