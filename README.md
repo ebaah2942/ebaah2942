@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**ebaah2942/ebaah2942** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi there, I'm Enoch
 
-Here are some ideas to get you started:
+I'm a **junior software developer** passionate about building real-world solutions with clean, maintainable code. My journey is shaped by hands-on learning, continuous improvement, and collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Working On
+- 🔧 **Full-stack web applications** using Django and React
+- 📱 **Mobile app prototypes** with React Native (Expo) for real-world use cases (e.g. hotel booking, car hire)
+- 🔐 **Authentication & Security** features including JWT, 2FA, and secure media storage
+- 🧪 Learning and applying **Test-Driven Development** (TDD) practices
+- 🌍 Preparing projects for **production deployment** using services like Render and AWS
+
+---
+
+### 🧠 What I’m Learning
+- Scalable backend architecture with Django REST Framework  
+- Integrating 3rd-party services like Flutterwave for payments  
+- CI/CD pipelines with GitHub Actions  
+- Cloud hosting with AWS S3, RDS, and DigitalOcean  
+
+---
+
+### 📌 Current Goals
+- Contribute to open-source projects  
+- Write clean, production-level code  
+- Build a solid portfolio of practical, full-stack projects  
+- Improve collaboration skills through team-based coding and code reviews  
+
+---
+
+### 🤝 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/ebaah2942)  
+- 🧑‍💻 [Portfolio Website](https://yourwebsite.com) *(Coming Soon)*  
+
+Thanks for visiting my GitHub! Let’s build something impactful together.
+
+
